@@ -1,0 +1,6 @@
+{
+  "name": "記賬本",
+  "description": "一個精美、流暢、實用的個人記賬與理財助手，支援分類管理、預算統計與歷史明細。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
